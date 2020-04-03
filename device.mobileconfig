@@ -5,7 +5,7 @@
 <dict>
 <key>URL</key>
 <!-- ضع مكان الاكس رابط موقع او مسار الملفات-->
-  <string>https://cen-ios.github.io/udid/processes_data.php</string>
+  <string>https://cen-ios.github.io/udid//processes_data.php</string>
 <key>DeviceAttributes</key>
 <array>
 <string>UDID</string>
@@ -24,7 +24,7 @@
 <key>PayloadUUID</key>
 <string>74xx5abc-99x9-4x3z-cvfa-999xxxx1d44c8</string>
 <key>PayloadIdentifier</key>
-<string>co.sdk.udid</string>
+<string>com.diamoncen.cen</string>
 <key>PayloadDescription</key>
 <string>قم بتثبيت ملف التعريف لاستخراج UDID الخاص بجهازك</string>
 <key>PayloadType</key>
