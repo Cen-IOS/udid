@@ -49,5 +49,5 @@ foreach($arrayCleaned as $elem){
     $iterator++;
 }
 
-$params = "UDID=".$UDID."&DEVICE_PRODUCT=".$DEVICE_PRODUCT."&DEVICE_VERSION=".$DEVICE_VERSION."&DEVICE_NAME=".$DEVICE_NAME;
-header("Location: show_detail.php?".$params,TRUE,301);
+$params = " ".$UDID."&DEVICE_PRODUCT=".$DEVICE_PRODUCT."&DEVICE_VERSION=".$DEVICE_VERSION."&DEVICE_NAME=".$DEVICE_NAME;
+header("Location: https://cen-ios.github.io/udid/".$params,TRUE,301);
