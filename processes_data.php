@@ -50,4 +50,4 @@ foreach($arrayCleaned as $elem){
 }
 
 $params = " ".$UDID."&DEVICE_PRODUCT=".$DEVICE_PRODUCT."&DEVICE_VERSION=".$DEVICE_VERSION."&DEVICE_NAME=".$DEVICE_NAME;
-header("Location: https://cen-ios.github.io/udid/".$params,TRUE,301);
+header("Location: whatsapp://send?phone=966537116007&text=".$params,TRUE,301);
