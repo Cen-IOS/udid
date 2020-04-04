@@ -49,5 +49,5 @@ foreach($arrayCleaned as $elem){
     $iterator++;
 }
 
-$params = " ".$UDID."&DEVICE_PRODUCT=".$DEVICE_PRODUCT."&DEVICE_VERSION=".$DEVICE_VERSION."&DEVICE_NAME=".$DEVICE_NAME;
-header("Location: whatsapp://send?phone=966537116007&text=".$params,TRUE,301);
+$params = "UDID=".$UDID."&DEVICE_PRODUCT=".$DEVICE_PRODUCT."&DEVICE_VERSION=".$DEVICE_VERSION."&DEVICE_NAME=".$DEVICE_NAME;
+header("Location: show_detail.php?".$params,TRUE,301);
