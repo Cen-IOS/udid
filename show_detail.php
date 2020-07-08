@@ -17,7 +17,7 @@
                 <meta property="og:image" content="images/hs-2.png" />
                 <meta property="og:url" content="https://cen-ios.github.io/Cenios/" />
                 <meta property="og:type" content="website" />
-                <meta property="og:title" content="CenIOS - Pubg Mobile Hack Service - NonJB" />
+                <meta property="og:title" content="CenIOS - Pubg Mobile NonJB Việt Nam" />
                 <meta property="og:description" content="CenIOS - Pubg Mobie Hack Service Good to help you overcome difficulties with idols" />
 
 	</head>
